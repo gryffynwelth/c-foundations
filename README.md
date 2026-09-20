@@ -40,26 +40,6 @@ gcc -Wall -Wextra -Wpedantic source.c -o program
 ./program
 ```
 
-## Learning Workflow
-
-1. Study the concept and algorithm.
-2. Write pseudocode before implementation when appropriate.
-3. Implement and test the program in C.
-4. Compile locally with GCC and review warnings.
-5. Document what the program demonstrates.
-6. Commit meaningful progress to GitHub.
-
-## Progress
-
-This repository is at an early stage and will be updated throughout the specialization.
-
-- [x] Repository created
-- [x] Local GitHub authentication configured with SSH
-- [ ] Add the first C exercise
-- [ ] Establish the course and exercise directories
-- [ ] Complete the first independent mini-project
-- [ ] Begin embedded-oriented C exercises
-
 ## Academic Integrity
 
 This repository is intended to document my learning and original work. Graded course solutions will not be published when doing so would violate course rules or academic-integrity requirements.
