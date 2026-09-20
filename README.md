@@ -4,9 +4,8 @@ A learning repository for building strong foundations in the C programming langu
 
 I am studying Electrical and Electronics Engineering and currently following the **Duke University Introduction to Programming in C Specialization**. My long-term goal is to apply C and C++ to embedded systems, sensor interfaces, telemetry, and an electronic control panel built around microcontrollers such as the ESP32 or STM32.
 
-## Current Focus
+## Progression Queue 
 
-- Algorithmic thinking and problem solving
 - C syntax and program structure
 - Variables, expressions, conditionals, and loops
 - Functions and decomposition
@@ -14,10 +13,9 @@ I am studying Electrical and Electronics Engineering and currently following the
 - Compiling, testing, and debugging on Linux
 - Preparing for embedded systems programming
 
-## Planned Repository Structure
+## Repo Structure
 
-
-The structure will grow gradually as I complete new topics. I prefer to add files only when they represent actual work rather than creating empty directories in advance.
+The structure will grow gradually as I complete new subjects. I'd rather add files only when they represent actual work than creating empty directories in advance.
 
 ## Development Environment
 
@@ -37,15 +35,11 @@ gcc -Wall -Wextra -Wpedantic source.c -o program
 
 This repository is intended to document my learning and original work. Graded course solutions will not be published when doing so would violate course rules or academic-integrity requirements.
 
-## Long-Term Direction
-
 The knowledge developed here will later support projects involving:
 
 - Microcontroller programming
-- Voltage, current, and temperature monitoring
 - Sensor data acquisition
 - Telemetry and fault logging
-- TFT-based control interfaces
 - Power-distribution and radar-system control
 
 ## License
