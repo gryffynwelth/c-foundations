@@ -16,13 +16,6 @@ I am studying Electrical and Electronics Engineering and currently following the
 
 ## Planned Repository Structure
 
-```text
-c-foundations/
-├── courses/        # Course-based notes and original practice
-├── exercises/      # Topic-based programming exercises
-├── projects/       # Larger independent programs
-└── docs/           # Progress tracking and supporting documentation
-```
 
 The structure will grow gradually as I complete new topics. I prefer to add files only when they represent actual work rather than creating empty directories in advance.
 
