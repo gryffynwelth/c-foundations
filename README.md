@@ -45,3 +45,14 @@ The knowledge developed here will later support projects involving:
 ## License
 
 This repository is licensed under the MIT License.
+
+## İlk uygulama — Sıcaklık eşik kontrolü
+
+[Alıştırmaya başla](exercises/01-temperature-monitor/README.md): değişkenler ve koşullarla tek bir sıcaklığı sınıflandır; ardından döngüyle beş örnek ölçümü işle ve alarmları say. Açıklamalar Türkçe, kod ve algoritma İngilizcedir. Başlangıç kodu ve ayrı referans çözümü vardır; bu kayıt alıştırmanın öğrenci tarafından tamamlandığı anlamına gelmez.
+
+| Konum | İçerik |
+| --- | --- |
+| `exercises/01-temperature-monitor/` | Görev, algoritma, başlangıç kodu ve referans çözümü |
+| `build/` | Yerel derleme çıktıları; Git'e eklenmez |
+
+Derleme komutları ve sınır değeri kontrolleri alıştırmanın README dosyasındadır. Sonraki adım, çalışan sınıflandırma mantığını bir fonksiyona ayırmak olacak.
